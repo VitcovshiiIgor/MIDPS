@@ -1,1 +1,0 @@
-Lucrarile de laborator disciplina: MIDPS. Lector: R. Melnic
