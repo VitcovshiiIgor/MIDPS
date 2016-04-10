@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Some sample text
+=======
+Some not sample text
+>>>>>>> newbranch
