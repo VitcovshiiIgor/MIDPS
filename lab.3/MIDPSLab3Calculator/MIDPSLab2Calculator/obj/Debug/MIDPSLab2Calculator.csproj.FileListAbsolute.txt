@@ -1,0 +1,9 @@
+D:\gamedev\MIDPSLab2Calculator\MIDPSLab2Calculator\bin\Debug\MIDPSLab2Calculator.exe.config
+D:\gamedev\MIDPSLab2Calculator\MIDPSLab2Calculator\bin\Debug\MIDPSLab2Calculator.exe
+D:\gamedev\MIDPSLab2Calculator\MIDPSLab2Calculator\bin\Debug\MIDPSLab2Calculator.pdb
+D:\gamedev\MIDPSLab2Calculator\MIDPSLab2Calculator\obj\Debug\MIDPSLab2Calculator.csprojResolveAssemblyReference.cache
+D:\gamedev\MIDPSLab2Calculator\MIDPSLab2Calculator\obj\Debug\MIDPSLab2Calculator.Form1.resources
+D:\gamedev\MIDPSLab2Calculator\MIDPSLab2Calculator\obj\Debug\MIDPSLab2Calculator.Properties.Resources.resources
+D:\gamedev\MIDPSLab2Calculator\MIDPSLab2Calculator\obj\Debug\MIDPSLab2Calculator.csproj.GenerateResource.Cache
+D:\gamedev\MIDPSLab2Calculator\MIDPSLab2Calculator\obj\Debug\MIDPSLab2Calculator.exe
+D:\gamedev\MIDPSLab2Calculator\MIDPSLab2Calculator\obj\Debug\MIDPSLab2Calculator.pdb
