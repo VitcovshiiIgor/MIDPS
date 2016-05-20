@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="text">Помидорка:)</string>
+    <string name="text2">Для работы:</string>
+    <string name="text3">Для отдыха:</string>
+</resources>
