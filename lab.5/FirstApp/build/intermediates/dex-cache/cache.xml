@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\User\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\midps\FirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_6d90bce966f064a8e685230c71910ff0dabb9a41\classes.dex" />
+    </item>
+    <item
+        jar="D:\midps\FirstApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\midps\FirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_9a021ccede4764c0a7ea63c8ff56ca83bc467753\classes.dex" />
+    </item>
+    <item
+        jar="D:\midps\FirstApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\midps\FirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_f54fbfa7488b3e69c3bc832aeeda009284befcf3\classes.dex" />
+    </item>
+    <item
+        jar="D:\midps\FirstApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="a1c3ab5140efece5cc0e2fcd81256653fbf4a40e">
+        <dex dex="D:\midps\FirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c6c616f84e047d012daf7ccc9aab76f588a04ccb\classes.dex" />
+    </item>
+    <item
+        jar="D:\midps\FirstApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\midps\FirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_cbfcbd61414bbaea44330da905385b2852e0d852\classes.dex" />
+    </item>
+    <item
+        jar="D:\midps\FirstApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="2b3909cd11340558663106dc2893a7c7b60cd2e1">
+        <dex dex="D:\midps\FirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_009c10c4183c1c23d73f92c922f0e1d4be17a79f\classes.dex" />
+    </item>
+
+</items>
